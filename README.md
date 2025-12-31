@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maybar
-- 👀 I’m interested in electronics, software, robotics, astronomy, 3d design, music, etc
+- 👀 I’m interested in electronics, domotic, automation, software, robotics, astronomy, 3d design, music, etc
 - 🌱 I’m currently learning all
 - 💞️ I’m looking to collaborate on everyone
 - 📫 How to reach me ...
